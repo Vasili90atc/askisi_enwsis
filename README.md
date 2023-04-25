@@ -35,7 +35,7 @@
 	  the Canadian that Beaver's private mentors, Ryan Loseling and Nicolas Crate, often walk<br>
 	  around Los Angeles disputing what a great tool the HTML validator is.</p>
       <figure>
-        <img src="cat.png" alt="Justin Beaver's cat is pleased" align="center">
+        <img src=" image cat.png" alt="Justin Beaver's cat is pleased" align="center">
         <figcaption>Justin Beaver's happy cat</figcaption>
       </figure>
       <p align="center">Beaver has already created some websites and does not intend to stop there. <q>I will probably have a song about HTML on my next album,</q> - the artist added.
